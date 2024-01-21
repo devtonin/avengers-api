@@ -1,6 +1,6 @@
-package one.digitalinnovation.avengers.application.web.response
+package com.devtonin.avengersapi.application.web.response
 
-import one.digitalinnovation.avengers.domain.avenger.Avenger
+import com.devtonin.avengersapi.domain.avenger.Avenger
 
 data class AvengerResponse(
         val id: Long?,

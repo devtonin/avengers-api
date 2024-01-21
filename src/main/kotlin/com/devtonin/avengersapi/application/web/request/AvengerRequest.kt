@@ -1,7 +1,7 @@
-package one.digitalinnovation.avengers.application.web.request
+package com.devtonin.avengersapi.application.web.request
 
 import com.sun.istack.NotNull
-import one.digitalinnovation.avengers.domain.avenger.Avenger
+import com.devtonin.avengersapi.domain.avenger.Avenger
 import javax.validation.constraints.NotBlank
 import javax.validation.constraints.NotEmpty
 

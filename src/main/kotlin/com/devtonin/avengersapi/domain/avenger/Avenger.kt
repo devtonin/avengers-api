@@ -1,4 +1,4 @@
-package one.digitalinnovation.avengers.domain.avenger
+package com.devtonin.avengersapi.domain.avenger
 
 data class Avenger(
         val id: Long? = null,

@@ -1,8 +1,8 @@
-package one.digitalinnovation.avengers.application.web.resource
+package com.devtonin.avengersapi.application.web.resource
 
-import one.digitalinnovation.avengers.application.web.request.AvengerRequest
-import one.digitalinnovation.avengers.application.web.response.AvengerResponse
-import one.digitalinnovation.avengers.domain.avenger.AvengerRepository
+import com.devtonin.avengersapi.application.web.request.AvengerRequest
+import com.devtonin.avengersapi.application.web.response.AvengerResponse
+import com.devtonin.avengersapi.domain.avenger.AvengerRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*

@@ -1,4 +1,4 @@
-package one.digitalinnovation.avengers.domain.avenger
+package com.devtonin.avengersapi.domain.avenger
 
 interface AvengerRepository {
     fun getDetail(id: Long): Avenger?

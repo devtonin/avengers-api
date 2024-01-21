@@ -1,7 +1,7 @@
-package one.digitalinnovation.avengers.resource.avenger
+package com.devtonin.avengersapi.resource.avenger
 
-import one.digitalinnovation.avengers.domain.avenger.Avenger
-import one.digitalinnovation.avengers.domain.avenger.AvengerRepository
+import com.devtonin.avengersapi.domain.avenger.Avenger
+import com.devtonin.avengersapi.domain.avenger.AvengerRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.data.repository.findByIdOrNull
 import org.springframework.stereotype.Component

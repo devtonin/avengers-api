@@ -1,6 +1,6 @@
-package one.digitalinnovation.avengers.resource.avenger
+package com.devtonin.avengersapi.resource.avenger
 
-import one.digitalinnovation.avengers.domain.avenger.Avenger
+import com.devtonin.avengersapi.domain.avenger.Avenger
 import javax.persistence.*
 
 @Entity
